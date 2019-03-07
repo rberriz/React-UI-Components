@@ -1,1 +1,22 @@
 /* All styles for your header Components live here */
+.lambdaLogo {
+    width: 40px;
+    height: 40px;
+}
+
+.flexHeader {
+    display: flex;
+    align-content: center;
+}
+
+#schoolName {
+    font-size: 12px;
+}
+.topText {
+    color: grey;
+    font-size: 8px;
+}
+
+.text {
+    font-size: 8px;
+}

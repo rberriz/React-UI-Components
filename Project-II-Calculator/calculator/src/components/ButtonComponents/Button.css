@@ -1,0 +1,33 @@
+.numberButtons {
+    width: 49.25px;
+    height: 40px;
+    border: 1px solid black;
+    /* box-sizing: border-box;
+    margin: 0 auto; */
+}
+.clear {
+    width: 148px;
+    height: 40px;
+    border: 1px solid black;
+    
+}
+.action {
+    width: 49.25px;
+    height: 40px;
+    border: 1px solid black;
+    color: white;
+    background-color: red;
+    font-size: 18px;
+}
+
+#buttonBox {
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+#zero {
+    width: 148px;
+    height: 40px;
+    border: 1px solid black;
+
+}
